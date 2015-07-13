@@ -23,6 +23,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 
 |名称 |订阅地址 | 介绍 |
 | ----- | ----- | ------ |
+|百度zenany|https://github.com/zenany/weekly|前端 行业 趋势|
 |Html5 Weekly|http://html5weekly.com/| Html 技术类|
 |CSS Weekly|http://css-weekly.com/| |
 |Javascript Weekly|http://javascriptweekly.com/|JS相关，同样有 html,css 和工具相关|
@@ -40,6 +41,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |SegmentFault精选 |http://segmentfault.com/|国内开发者技术问答社区每周精选问答|
 |FE Weekly|http://www.feweekly.com/|每周一次，内容主要是英文的，不过有中文导读
 |EchoJs_News|http://www.echojs.com/|每天推送若干好文，都是英文的，JS技术类|
+||http://github.com:fex-study/front-end-collect.git
 
 
 
